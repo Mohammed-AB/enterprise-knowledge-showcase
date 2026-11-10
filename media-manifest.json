@@ -1,0 +1,16 @@
+{
+  "project": "Enterprise Knowledge",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 122591,
+      "sha256": "80c64cae8f6e48c7ee0989c0ecf1068cafa1454345985d9ff877a283a6f340dc"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 2101929,
+      "sha256": "380f73689aa3c995e9eb27267f10c9df82fa7a872c3a49f255f8997a1105cb64"
+    }
+  ]
+}
