@@ -38,7 +38,7 @@ The same permission change affects cached answers, direct citations, conversatio
 
 ## Explore the work
 
-This private repository is a presentation package: screenshots, walkthrough media and engineering notes. Application source, credentials and customer records are not included. The interactive demonstration runs in a separate local review environment; access can be arranged for a walkthrough.
+This repository is a presentation package: screenshots, walkthrough media and engineering notes. Application source, credentials and customer records are not included. The interactive demonstration runs in a separate local review environment; access can be arranged for a walkthrough.
 
 [Read the guided demo](docs/DEMO.md) · [View my portfolio](https://mohammed-ab.github.io/)
 
